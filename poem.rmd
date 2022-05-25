@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "sonya soto"
+date: "summer 2022"
 output: html_document
 ---
 
@@ -15,10 +15,19 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+I have a fairy by my side  
+Which says I must not sleep,  
+When once in pain I loudly cried  
+It said "You must not weep"  
+If, full of mirth, I smile and grin,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
+The farmhouse lingers, though averse to square   
+With the new city street it has to wear   
+A number in. But what about the brook   
+That held the house as in an elbow-crook?   
+I ask as one who knew the brook, its strength   
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
